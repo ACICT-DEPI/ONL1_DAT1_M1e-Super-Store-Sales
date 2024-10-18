@@ -7,27 +7,48 @@ Superstore is a fictional retail company based in the United States. They specia
 ## Dataset
 The dataset used for this project comes from a superstore's sales records and contains 9994 transactions that occurred from 2014 to 2017.  This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data, offering insights into operations, customer behavior, profitability, and logistics.
 ### Columns Overview:
-Row ID: Unique identifier for each record (Quantitative).
-Order ID: Unique identifier for each order (Qualitative).
-Order Date: Date when the order was placed (Qualitative).
-Ship Date: Date when the order was shipped (Qualitative).
-Ship Mode: Shipping method (e.g., Standard Class, First Class) (Qualitative).
-Customer ID: Unique identifier for each customer (Qualitative).
-Customer Name: Name of the customer (Qualitative).
-Segment: Customer segment (e.g., Consumer, Corporate, Home Office) (Qualitative).
-Country: Country of the customer (Qualitative).
-City: City where the order was placed (Qualitative).
-State: State where the order was placed (Qualitative).
-Postal Code: Customer’s postal code (Qualitative).
-Region: Region of the customer (e.g., West, East, Central, South) (Qualitative).
-Product ID: Unique identifier for each product (Qualitative).
-Category: Product category (e.g., Furniture, Office Supplies) (Qualitative).
-Sub-Category: Product sub-category (e.g., Chairs, Binders) (Qualitative).
-Product Name: Name of the product (Qualitative).
-Sales: Total sales amount in monetary value (Quantitative).
-Quantity: Number of units ordered (Quantitative).
-Discount: Discount applied to the order (Quantitative).
-Profit: Profit earned from the sale (Quantitative).
+- Row ID: Unique identifier for each record (Quantitative).
+  
+- Order ID: Unique identifier for each order (Qualitative).
+  
+- Order Date: Date when the order was placed (Qualitative).
+  
+- Ship Date: Date when the order was shipped (Qualitative).
+  
+- Ship Mode: Shipping method (e.g., Standard Class, First Class) (Qualitative).
+  
+- Customer ID: Unique identifier for each customer (Qualitative).
+  
+- Customer Name: Name of the customer (Qualitative).
+  
+- Segment: Customer segment (e.g., Consumer, Corporate, Home Office) (Qualitative).
+  
+- Country: Country of the customer (Qualitative).
+  
+- City: City where the order was placed (Qualitative).
+  
+- State: State where the order was placed (Qualitative).
+  
+- Postal Code: Customer’s postal code (Qualitative).
+  
+- Region: Region of the customer (e.g., West, East, Central, South) (Qualitative).
+  
+- Product ID: Unique identifier for each product (Qualitative).
+  
+- Category: Product category (e.g., Furniture, Office Supplies) (Qualitative).
+  
+- Sub-Category: Product sub-category (e.g., Chairs, Binders) (Qualitative).
+  
+- Product Name: Name of the product (Qualitative).
+  
+- Sales: Total sales amount in monetary value (Quantitative).
+  
+- Quantity: Number of units ordered (Quantitative).
+  
+- Discount: Discount applied to the order (Quantitative).
+  
+- Profit: Profit earned from the sale (Quantitative).
+  
 ### Data Types:
 #### Quantitative Variables:
 Sales, Quantity, Discount, Profit: Numeric fields that measure performance metrics.
