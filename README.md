@@ -4,6 +4,18 @@
 ![](images/intro.png)
 
 Superstore is a fictional retail company based in the United States. They specialize in selling furniture, office supplies, and technology products.This project focuses on analyzing sales performance, customer segmentation, profitability, shipping performance, and forecasting using a superstore's dataset. Additionally, data modeling, validation, governance, and outlier analysis were conducted to ensure accurate results and insights.
+
+## Objectives
+- Data Understanding: Analyze and understand the dataset structure, including key variables and relationships.
+  
+- Data Cleaning: Handle missing values, outliers, and ensure the data is accurate for analysis.
+  
+- Exploratory Data Analysis (EDA): Perform EDA to gain initial insights and spot trends.
+  
+- Data Visualization: Create dashboards and visual representations to communicate findings.
+  
+- Insights & Recommendations: Based on the analysis, provide actionable insights and recommendations.
+  
 ## Dataset
 The dataset used for this project comes from a superstore's sales records and contains 9994 transactions that occurred from 2014 to 2017.  This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data, offering insights into operations, customer behavior, profitability, and logistics.
 ### Columns Overview:
@@ -60,9 +72,31 @@ Qualitative Data: The categorical data (Segment, Product Category, Region, etc.)
 ### Data Scope:
 This dataset provides a comprehensive view of sales and performance across regions, customer segments, and product lines, making it well-suited for analyzing sales performance, customer segmentation, shipping and delivery, and profitability.
 
-
-
-
+## Project Workflow
+### 1. Data Understanding
+- Assess the dataset structure, including the number of rows, columns, and types of variables.
+- Identify the key features that are crucial for analysis.
+### 2. Data Cleaning & Preprocessing
+- Manage missing data, irrelevant data types, and duplicates.
+- Detect and address outliers using appropriate techniques.
+- Ensure data consistency and validity.
+- Feature Engineering.
+### 3. Exploratory Data Analysis (EDA)
+- Apply descriptive statistics to understand distributions, central tendencies, and variability.
+- Analyze correlations between variables.
+- Group and segment data for deeper insights.
+### 4. Data Visualization
+- Use Tableau for creating interactive dashboards.
+- Visualize trends, correlations, and important metrics using various charts (e.g., bar charts, scatter plots, and line graphs).
+### 5. Insights & Recommendations
+- Summarize key findings from the EDA and visualizations.
+- Offer data-driven recommendations for business improvements or decision-making strategies.
+## Tools Used
+- Python: For data manipulation, cleaning, and EDA (pandas, numpy, matplotlib, seaborn).
+  
+- Tableau: For creating visualizations and dashboards.
+  
+- SQL: For querying, data validation, and ensuring data integrity.
 
 
 
