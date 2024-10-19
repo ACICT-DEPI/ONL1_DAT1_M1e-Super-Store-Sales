@@ -15,7 +15,16 @@ Superstore is a fictional retail company based in the United States. They specia
 - Data Visualization: Create dashboards and visual representations to communicate findings.
   
 - Insights & Recommendations: Based on the analysis, provide actionable insights and recommendations.
-  
+
+## Dashboards
+### You can directly access interactive dashboaeds: 
+[Profit](https://public.tableau.com/app/profile/nada.hamdi/viz/SuperStoreAnalysis-Profit/Profit?publish=yes)
+[Profit Margin](https://public.tableau.com/app/profile/nada.hamdi/viz/SuperStoreAnalysis-ProfitMargin/profitmargin?publish=yes)
+[Sales](https://public.tableau.com/app/profile/nada.hamdi/viz/SuperStoreAnalysis-Sales/Sales?publish=yes)
+[Customer](https://public.tableau.com/app/profile/nada.hamdi/viz/SuperStoreAnalysis-Customers/Customers?publish=yes)
+[Shipping](https://public.tableau.com/app/profile/nada.hamdi/viz/SuperStoreAnalysis-Shipping/Shipping?publish=yes)
+[Discount](https://public.tableau.com/app/profile/nada.hamdi/viz/SuperStoreAnalysis-Discounts/Discount?publish=yes)
+[Trends dashboard](https://public.tableau.com/app/profile/mohamed.fareed4903/viz/Book1_17285517907770/SalesDashboard?publish=yes)
 ## Dataset
 The dataset used for this project comes from a superstore's sales records and contains 9994 transactions that occurred from 2014 to 2017.  This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data, offering insights into operations, customer behavior, profitability, and logistics.
 ### Columns Overview:
@@ -87,7 +96,6 @@ This dataset provides a comprehensive view of sales and performance across regio
 - Group and segment data for deeper insights.
 ### 4. Data Visualization
 - Use Tableau for creating interactive dashboards.
-      [Trends](https://public.tableau.com/app/profile/mohamed.fareed4903/viz/Book1_17285517907770/SalesDashboard?publish=yes)
 - Visualize trends, correlations, and important metrics using various charts (e.g., bar charts, scatter plots, and line graphs).
 ### 5. Insights & Recommendations
 - Summarize key findings from the EDA and visualizations.
