@@ -91,7 +91,7 @@ This dataset provides a comprehensive view of sales and performance across regio
 - Ensure data consistency and validity.
 - Feature Engineering.
 ### 3. Data Modeling
-![](images/modelling)
+![](images/modelling.png)
    - Build a robust data model to represent relationships among different features in the dataset.
    - Define and organize the data schema for effective querying and analysis.
    - Optimize the model for performance and scalability.
