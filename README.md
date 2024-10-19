@@ -28,47 +28,47 @@ Superstore is a fictional retail company based in the United States. They specia
 ## Dataset
 The dataset used for this project comes from a superstore's sales records and contains 9994 transactions that occurred from 2014 to 2017.  This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data, offering insights into operations, customer behavior, profitability, and logistics.
 ### Columns Overview:
-- Row ID: Unique identifier for each record (Quantitative).
+- **Row ID**: Unique identifier for each record (Quantitative).
   
-- Order ID: Unique identifier for each order (Qualitative).
+- **Order ID**: Unique identifier for each order (Qualitative).
   
-- Order Date: Date when the order was placed (Qualitative).
+- **Order Date**: Date when the order was placed (Qualitative).
   
-- Ship Date: Date when the order was shipped (Qualitative).
+- **Ship Date**: Date when the order was shipped (Qualitative).
   
-- Ship Mode: Shipping method (e.g., Standard Class, First Class) (Qualitative).
+- **Ship Mode**: Shipping method (e.g., Standard Class, First Class) (Qualitative).
   
-- Customer ID: Unique identifier for each customer (Qualitative).
+- **Customer ID**: Unique identifier for each customer (Qualitative).
   
-- Customer Name: Name of the customer (Qualitative).
+- **Customer Name**: Name of the customer (Qualitative).
   
-- Segment: Customer segment (e.g., Consumer, Corporate, Home Office) (Qualitative).
+- **Segment**: Customer segment (e.g., Consumer, Corporate, Home Office) (Qualitative).
   
-- Country: Country of the customer (Qualitative).
+- **Country**: Country of the customer (Qualitative).
   
-- City: City where the order was placed (Qualitative).
+- **City**: City where the order was placed (Qualitative).
   
-- State: State where the order was placed (Qualitative).
+- **State**: State where the order was placed (Qualitative).
   
-- Postal Code: Customer’s postal code (Qualitative).
+- **Postal Code**: Customer’s postal code (Qualitative).
   
-- Region: Region of the customer (e.g., West, East, Central, South) (Qualitative).
+- **Region**: Region of the customer (e.g., West, East, Central, South) (Qualitative).
   
-- Product ID: Unique identifier for each product (Qualitative).
+- **Product ID**: Unique identifier for each product (Qualitative).
   
-- Category: Product category (e.g., Furniture, Office Supplies) (Qualitative).
+- **Category**: Product category (e.g., Furniture, Office Supplies) (Qualitative).
   
-- Sub-Category: Product sub-category (e.g., Chairs, Binders) (Qualitative).
+- **Sub-Category**: Product sub-category (e.g., Chairs, Binders) (Qualitative).
   
-- Product Name: Name of the product (Qualitative).
+- **Product Name**: Name of the product (Qualitative).
   
-- Sales: Total sales amount in monetary value (Quantitative).
+- **Sales**: Total sales amount in monetary value (Quantitative).
   
-- Quantity: Number of units ordered (Quantitative).
+- **Quantity**: Number of units ordered (Quantitative).
   
-- Discount: Discount applied to the order (Quantitative).
+- **Discount**: Discount applied to the order (Quantitative).
   
-- Profit: Profit earned from the sale (Quantitative).
+- **Profit**: Profit earned from the sale (Quantitative).
   
 ### Data Types:
 #### Quantitative Variables:
@@ -90,14 +90,18 @@ This dataset provides a comprehensive view of sales and performance across regio
 - Detect and address outliers using appropriate techniques.
 - Ensure data consistency and validity.
 - Feature Engineering.
-### 3. Exploratory Data Analysis (EDA)
+### 3. Data Modeling
+   - Build a robust data model to represent relationships among different features in the dataset.
+   - Define and organize the data schema for effective querying and analysis.
+   - Optimize the model for performance and scalability.
+### 4. Exploratory Data Analysis (EDA)
 - Apply descriptive statistics to understand distributions, central tendencies, and variability.
 - Analyze correlations between variables.
 - Group and segment data for deeper insights.
-### 4. Data Visualization
+### 5. Data Visualization
 - Use Tableau for creating interactive dashboards.
 - Visualize trends, correlations, and important metrics using various charts (e.g., bar charts, scatter plots, and line graphs).
-### 5. Insights & Recommendations
+### 6. Insights & Recommendations
 - Summarize key findings from the EDA and visualizations.
 - Offer data-driven recommendations for business improvements or decision-making strategies.
 ## Tools Used
