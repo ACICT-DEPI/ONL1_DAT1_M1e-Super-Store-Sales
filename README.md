@@ -87,6 +87,7 @@ This dataset provides a comprehensive view of sales and performance across regio
 - Group and segment data for deeper insights.
 ### 4. Data Visualization
 - Use Tableau for creating interactive dashboards.
+      [Trends](https://public.tableau.com/app/profile/mohamed.fareed4903/viz/Book1_17285517907770/SalesDashboard?publish=yes)
 - Visualize trends, correlations, and important metrics using various charts (e.g., bar charts, scatter plots, and line graphs).
 ### 5. Insights & Recommendations
 - Summarize key findings from the EDA and visualizations.
