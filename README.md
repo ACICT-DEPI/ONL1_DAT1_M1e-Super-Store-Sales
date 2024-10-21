@@ -104,8 +104,10 @@ This dataset provides a comprehensive view of sales and performance across regio
 - Visualize trends, correlations, and important metrics using various charts (e.g., bar charts, scatter plots, and line graphs).
 ### 6. Insights & Recommendations
 - Summarize key findings from the EDA and visualizations.
-- Forecasting for sales and Profit.
 - Offer data-driven recommendations for business improvements or decision-making strategies.
+- Forecasting for sales and Profit.
+  ![Profit for next 6 months](images/profit-forecasting.png)
+  ![Sales for next 6 months](images/sales-forecasting.png)
 ## Tools Used
 - Python: For data manipulation, cleaning, and EDA (pandas, numpy, matplotlib, seaborn).
   
